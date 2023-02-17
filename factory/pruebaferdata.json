@@ -1,0 +1,9 @@
+{
+	"name": "pruebaferdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac98473e-2cf8-49b9-acf4-5b7c3b2e494d",
+		"tenantId": "3048dc87-43f0-4100-9acb-ae1971c79395"
+	}
+}
