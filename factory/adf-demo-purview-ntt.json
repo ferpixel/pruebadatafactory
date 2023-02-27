@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-purview-ntt",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5dfa4628-a059-4b26-92f7-cdf5cec47a90",
+		"tenantId": "3048dc87-43f0-4100-9acb-ae1971c79395"
+	}
+}
